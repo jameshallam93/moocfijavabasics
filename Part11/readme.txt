@@ -1,6 +1,6 @@
 Part 11 looks at class diagrams, digs deeper into packages and imports, explains how to throw and handle exceptions and looks at reading and saving data to a file.
 
-Exercises 1-7 are all constructed from Class diagrams and provided a way of practicing how to read and implement programs from this information.
+Exercises 1-7 are all constructed from Class diagrams and provided a way of practicing how to read and implement programs from these diagrams.
 
 Exercises 8 and 9 look at how to manage packages, and when you should be using packages to simplify programs
 
